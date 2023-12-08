@@ -2,7 +2,7 @@
 
 A simple Task List application crafted with the powerful Laravel framework. Effortlessly create, update, and delete tasks with a user-friendly interface.
 
-Moreover, enhance productivity by marking tasks as completed and effortlessly track creation and update dates.
+Moreover, it enhances productivity by marking tasks as completed and effortlessly tracking creation and update dates.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
