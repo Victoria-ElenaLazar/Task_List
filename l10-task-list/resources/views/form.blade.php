@@ -15,7 +15,7 @@
             </label>
             <input text="text" name="title" id="title"
                    @class(['border-red-500' => $errors->has('title')])
-                   value="{{ $task->title ?? old('title') }}" />
+                   value="{{ $task->title ?? old('title') }}"/>
             @error('title')
             <p class="error">{{ $message }}</p>
             @enderror
